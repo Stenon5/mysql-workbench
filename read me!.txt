@@ -1,0 +1,3 @@
+1ro crear una nueva base de datos y indicarla como predeterminada
+2do abrir platzi_blog.sql 
+3ro dar a execute al script
