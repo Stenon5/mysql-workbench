@@ -1,3 +1,7 @@
+Hi! 
+Esta es mi base de datos para una página de blogposts 
+
+
 tutorial para el uso del archivo
 
 1ro crear una nueva base de datos y indicarla como predeterminada
